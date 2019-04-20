@@ -1,8 +1,11 @@
 ---
 title: "Demonstração de Histograma"
 author: Ricardo Lacerda e Dan Reznik
+date: 20 de Abril de 2019
 output: github_document
 ---
+
+Carrega bibliotecas
 
 ```{r,message=F}
 library(tidyverse)

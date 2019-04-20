@@ -1,6 +1,9 @@
 Demonstração de Histograma
 ================
 Ricardo Lacerda e Dan Reznik
+20 de Abril de 2019
+
+Carrega bibliotecas
 
 ``` r
 library(tidyverse)
